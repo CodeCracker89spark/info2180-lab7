@@ -1,0 +1,66 @@
+
+#Start{
+    background-color: #00FFFF;
+    height:100px;
+    margin-top: -23px;
+    margin-left: -20px;
+    margin-right: -20px;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid  blue;
+}
+table
+{
+    border-collapse: collapse;
+}
+
+body{
+    background-color: #d3d3d3;
+}
+
+#gps{
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 80px;
+    width: 90%;
+    
+}
+.flex-container{
+	display: flex;
+	
+	align-items: center;
+	
+	
+}
+#begin{
+    text-align: center;
+    margin:270px;
+}
+#context
+{
+    background-color: #B19CD9
+}
+
+#controls{
+    text-align: center;
+}
+#lookup
+{
+    
+    background-color: #00FFFF
+}
+#lookup,#context{
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+#country{
+    height: 29px;
+    width: 60%; 
+    display: block;
+    margin: 20px auto 0;
+   /* margin-left: auto;
+    margin-right: auto;*/
+    
+}
